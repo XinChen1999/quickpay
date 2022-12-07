@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://deft:deft123@ec2-44-204-189-62.compute-1.amazonaws.com/QuickPay
